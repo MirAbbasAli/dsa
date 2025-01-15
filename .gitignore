@@ -43,3 +43,4 @@ bin/
 /.idea/modules.xml
 /.idea/vcs.xml
 /.idea/gradle.xml
+/.idea/.gitignore
